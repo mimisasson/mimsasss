@@ -1,0 +1,50 @@
+h1 {
+    color:red;
+}
+
+p{
+    color:green;
+}
+
+h3 {
+    color:pink
+    font-size: 24px;
+}
+
+#first-div h1 {
+    color:blue;
+    font-size; 51px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#first-div p {
+    color:red;
+    text-align:justify;
+}
+
+#first-div h3 {
+    color: green;
+    font-family: 'Lato', sans-serif;
+}
+
+#first-div img {
+    border-radius: 50%;
+}
+
+#other-div {
+    width:200px;
+    height: 200px;
+    background-color: orange;
+    transition: all 0.3s ease-in-out;
+}
+
+#other-div:hover {
+    
+}
+
+.box {
+    background-color:yellow;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+}
